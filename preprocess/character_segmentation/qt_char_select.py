@@ -4,8 +4,6 @@ from PyQt5.QtCore import QCoreApplication
 import sys
 import matplotlib.pyplot as plt
 import os
-
-
 class charWindow(QWidget):
     
     def __init__(self):
@@ -66,3 +64,4 @@ if __name__ == '__main__':
     sys.exit(app.exec_())
 
 
+#-- 108krohan -- qt_char_select by shubhvachher https://www.linkedin.com/in/shubh-vachher-440b16a2/
